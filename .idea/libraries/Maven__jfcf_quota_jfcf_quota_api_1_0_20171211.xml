@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jfcf-quota:jfcf-quota-api:1.0.20171211">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jfcf-quota/jfcf-quota-api/1.0.20171211/jfcf-quota-api-1.0.20171211.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jfcf-quota/jfcf-quota-api/1.0.20171211/jfcf-quota-api-1.0.20171211-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jfcf-quota/jfcf-quota-api/1.0.20171211/jfcf-quota-api-1.0.20171211-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

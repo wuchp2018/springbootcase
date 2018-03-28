@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.nbank:usercenter:201803191250">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nbank/usercenter/201803191250/usercenter-201803191250.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nbank/usercenter/201803191250/usercenter-201803191250-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nbank/usercenter/201803191250/usercenter-201803191250-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

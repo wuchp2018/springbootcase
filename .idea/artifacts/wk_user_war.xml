@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wk-user:war">
+    <output-path>$PROJECT_DIR$/../wk-user/target</output-path>
+    <root id="archive" name="/wk-user.war">
+      <element id="artifact" artifact-name="wk-user:war exploded" />
+    </root>
+  </artifact>
+</component>

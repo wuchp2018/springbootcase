@@ -1,0 +1,9 @@
+2018-03-28 09:36:48,808 [INFO]-[Thread:main]-[org.eclipse.jetty.util.log] - Logging initialized @903ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-03-28 09:36:48,929 [INFO]-[Thread:main]-[org.eclipse.jetty.server.Server] - jetty-9.4.8.v20171121, build timestamp: 2017-11-22T05:27:37+08:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-03-28 09:36:49,140 [INFO]-[Thread:main]-[org.eclipse.jetty.webapp.StandardDescriptorProcessor] - NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2018-03-28 09:36:49,147 [INFO]-[Thread:main]-[org.eclipse.jetty.server.session] - DefaultSessionIdManager workerName=node0
+2018-03-28 09:36:49,147 [INFO]-[Thread:main]-[org.eclipse.jetty.server.session] - No SessionScavenger set, using defaults
+2018-03-28 09:36:49,148 [INFO]-[Thread:main]-[org.eclipse.jetty.server.session] - Scavenging every 600000ms
+2018-03-28 09:36:49,174 [INFO]-[Thread:main]-[org.eclipse.jetty.server.handler.ContextHandler] - Started o.e.j.w.WebAppContext@76ed1b7c{/,file:///F:/study2018/sprintbootcase/src/main/WebRoot,AVAILABLE}
+2018-03-28 09:36:49,197 [INFO]-[Thread:main]-[org.eclipse.jetty.server.AbstractConnector] - Started ServerConnector@3c947bc5{HTTP/1.1,[http/1.1]}{0.0.0.0:81}
+2018-03-28 09:36:49,197 [INFO]-[Thread:main]-[org.eclipse.jetty.server.Server] - Started @1293ms

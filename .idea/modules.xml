@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springbootmybatis/springbootmybatis.iml" filepath="$PROJECT_DIR$/../springbootmybatis/springbootmybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sprintbootcase.iml" filepath="$PROJECT_DIR$/sprintbootcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wk-user/wk-user.iml" filepath="$PROJECT_DIR$/../wk-user/wk-user.iml" />
+    </modules>
+  </component>
+</project>
